@@ -5,7 +5,7 @@
 // // O(nlogn)
 // //Space Complexity 
 // // O(n)
-// vector<int> mergeArrays(vector<int>arr1,vector<int>arr2){ 
+// vector<int> mergeArrays(vector<int>arr1,vector<int>arr2) { 
 //   vector<int> result;
 //   int l1 = arr1.size();
 //   int l2 = arr2.size();
